@@ -1,1 +1,3 @@
-# Mccaslin_et_al_MEE_TARB
+Supplemental material for:
+
+McCaslin, HM, AB Feuka, and MB Hooten (2020) "Hierarchical computing for hierarchical models in ecology". Methods in Ecology and Evolution.
